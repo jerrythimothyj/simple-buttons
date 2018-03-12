@@ -32,8 +32,8 @@ body {
 }
 
 .button:disabled {
-    -webkit-filter: brightness(90%);
-    filter: brightness(90%);
+    -webkit-filter: brightness(75%);
+    filter: brightness(75%);
     cursor: not-allowed;
 }
 
