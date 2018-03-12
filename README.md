@@ -112,6 +112,6 @@ Just take a look at the HTML and the CSS files for implementation
 ![alt text](http://jerrythimothy.bigjapps.com/simple-buttons/output.png)
 
 
-### Compatility on Hover Effect
+### Compatibility on Hover Effect
 
 ![alt text](http://jerrythimothy.bigjapps.com/simple-buttons/compatibility.png)
