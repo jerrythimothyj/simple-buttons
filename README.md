@@ -1,6 +1,8 @@
 # Simple buttons with HTML and CSS
 
-Simple colorful buttons with web safe colors
+Simple colorful buttons with web safe colors. This could come in handy for any web developer to quickly integrate different styles of HTML CSS buttons.
+
+Quick Plug and Play button code.
 
 [Demo](http://jerrythimothy.bigjapps.com/simple-buttons/) - Click the link for the list of colorful buttons
 
