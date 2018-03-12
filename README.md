@@ -20,7 +20,6 @@ Simple colorful buttons with web safe colors
 * Medium Button
 * Large Button
 * Extra Large Button
-* Inline Button
 * Block Level Button
 
 ## Getting Started
@@ -67,10 +66,6 @@ Just take a look at the HTML and the CSS files for implementation
 
 .button:active {
     box-shadow: none;
-}
-
-.button-inline {
-    display: inline-block;
 }
 
 .button-block {

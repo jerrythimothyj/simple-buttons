@@ -41,10 +41,6 @@ body {
     box-shadow: none;
 }
 
-.button-inline {
-    display: inline-block;
-}
-
 .button-block {
     display: block;
     width:100%;
